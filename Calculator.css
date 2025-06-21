@@ -1,0 +1,99 @@
+body {
+	background: #fad9f0;
+	font-family: "Arial Rounded MT Bold", sans-serif;
+}
+.Cay-Thuoc {
+	position: absolute;
+	top: 25px;
+	left: 459px;
+	width: 25px;
+	height: 1000px;
+	background: coral;
+}
+/*Đặc tính của Khung Máy Tính*/
+.khungMayTinh {
+	position: relative;
+	top: 40px;
+	left: 50px;
+	width: 370px;
+	height: 500px;
+	background: white;
+	border-radius: 5px;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.3);
+}
+/*Đặc tính của Màn Hình Máy Tính*/
+.manHinhMayTinh {
+	position: absolute;
+	top: 10px;
+	left: 5px;
+	width: 350px;
+	height: 200px;
+	background: #d1d1d1;
+	border-radius: 10px;
+}
+.nut:active {
+	transform: scale(0.95);
+}
+.nut {
+	transition: 0.1s;
+}
+/*Đặc tính của các nút*/
+.nut {
+	width: 68.4px;
+	height: 40px;
+	border: none;
+	border-radius: 10px;
+	background: blue;
+	font-size: 30px;
+}
+/*Điều chỉnh vị trí các nút (nut0 -> nutAC*/
+.nutso0 {
+	position: absolute;
+	bottom: 10px;
+	left: 10px;
+}
+.nutso00 {
+	position: absolute;
+	bottom: 10px;
+	left: 80.4px;
+}
+.nutcham {
+	position: absolute;
+	bottom: 10px;
+	left: 150.6px;
+}
+.nutbang {
+	position: absolute;
+	bottom: 10px;
+	left: 220.8px;
+}
+.nutcong {
+	position: absolute;
+	bottom: 10px;
+	left: 291px;
+}
+.nutso1 {
+	position: absolute;
+	bottom: 52px;
+	left: 10px;
+}
+.nutso2 {
+	position: absolute;
+	bottom: 52px;
+	left: 80.4px;
+}
+.nutso3 {
+	position: absolute;
+	bottom: 52px;
+	left: 150.6px;
+}
+.nutchia {
+	position: absolute;
+	bottom: 52px;
+	left: 220.8px;
+}
+.nut-ac {
+	position: absolute;
+	bottom: 52px;
+	left: 291px;
+}
