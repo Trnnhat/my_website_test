@@ -5,4 +5,5 @@
 - Trừ (-)
 - Nhân (x)
 - Chia (÷)
+
 Không chỉ vậy máy tính còn thực hiện một số phép tính nâng cao khác.
