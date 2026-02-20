@@ -11,5 +11,3 @@ Ngoài ra, máy tính còn có thể thực hiện một số phép tính nâng 
 - HTML (dùng để tạo khung xương tranh web)
 - CSS (định dạng, thêm màu, phông chữ cho web)
 - JAVASCRIPT (thực hiện các phép tính và logic)
-## 3. Mục Đích
-- Tôi đã tạo ra website này nhầm mục đích thực hành làm Font-end website.
